@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="LMS Automation Suite">
+
+    <test name="LMS Tests">
+        <classes>
+            <class name="com.lms.tests.LoginTest" />
+        </classes>
+    </test>
+
+</suite>
